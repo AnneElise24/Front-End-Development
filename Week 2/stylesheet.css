@@ -1,0 +1,13 @@
+body {
+
+}
+
+fieldset {
+    background-color: grey;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px pink;
+    margin: 0 auto;
+  width: 80%;
+
+}
+
